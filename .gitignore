@@ -1,2 +1,6 @@
 .env
+.env.example
+install.sh
+script.sh
+version
 secrets.conf
